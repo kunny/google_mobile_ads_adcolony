@@ -1,6 +1,6 @@
 name: google_mobile_ads_adcolony
 description: Google Mobile Ads mediation plugin for AdColony.
-version: 2.4.0
+version: 2.4.0+1
 homepage:
 
 environment:
