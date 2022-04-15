@@ -16,7 +16,7 @@ Google Mobile Ads mediation plugin for AdColony.
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'GoogleMobileAdsMediationAdColony', '4.7.2.0'
+  s.dependency 'GoogleMobileAdsMediationAdColony', '4.7.2.2'
   s.ios.deployment_target = '8.0'
   s.static_framework = true
 
